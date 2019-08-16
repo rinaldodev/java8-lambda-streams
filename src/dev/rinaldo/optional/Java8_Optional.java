@@ -3,7 +3,8 @@ package dev.rinaldo.optional;
 import java.util.Optional;
 
 /**
- * JAVA 8 - Optional
+ * JAVA 8 - Optional <br>
+ * Vídeo em: https://www.youtube.com/watch?v=hmU2QEEc4sU
  * 
  * @author RinaldoDev
  */
