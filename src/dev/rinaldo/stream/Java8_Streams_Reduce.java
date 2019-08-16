@@ -7,7 +7,8 @@ import java.util.OptionalDouble;
 import java.util.stream.DoubleStream;
 
 /**
- * JAVA 8 - Streams - Reduce
+ * JAVA 8 - Streams - Reduce <br>
+ * Vídeo em: https://youtu.be/2aHElyENpuM
  * 
  * @author RinaldoDev
  */
