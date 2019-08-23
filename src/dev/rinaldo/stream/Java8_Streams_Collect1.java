@@ -13,7 +13,8 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 /**
- * JAVA 8 - Streams - Collect
+ * JAVA 8 - Streams - Collect <br>
+ * Vídeo em: https://www.youtube.com/watch?v=mTbh9d2orcU
  * 
  * @author RinaldoDev
  */
