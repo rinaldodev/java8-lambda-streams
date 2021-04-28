@@ -2,7 +2,7 @@
 
 Códigos feitos para o curso/playlist de Multithreading com Java, no canal RinaldoDev do YouTube.
 
-* Playlist no YouTube: https://www.youtube.com/playlist?list=PLuYctAHjg89YNXAXhgUt6ogMyPphlTVQG
+* Playlist no YouTube: https://www.youtube.com/playlist?list=PLuYctAHjg89ZkhgOQo0zcTtmHY5nuRYud
 * Canal no YouTube: https://www.youtube.com/rinaldodev
 
 ## Me siga para mais conteúdo gratuito!
