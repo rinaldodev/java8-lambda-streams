@@ -7,7 +7,7 @@ import java.util.stream.IntStream;
  * 
  * @author RinaldoDev
  */
-public class Java8_Lambda {
+public class Java8_Lambda_Tipos {
 
   public static void main(String[] args) {
 
