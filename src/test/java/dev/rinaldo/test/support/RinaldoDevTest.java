@@ -1,22 +1,10 @@
 package dev.rinaldo.test.support;
 
-import dev.rinaldo.test.lambda.Java8_Lambda_Test;
-import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
-import spoon.Launcher;
-import spoon.reflect.CtModel;
-import spoon.reflect.declaration.CtClass;
-import spoon.reflect.declaration.CtMethod;
-import spoon.reflect.factory.ClassFactory;
-import spoon.reflect.factory.FactoryImpl;
-import spoon.reflect.factory.MethodFactory;
-import spoon.reflect.factory.TypeFactory;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
