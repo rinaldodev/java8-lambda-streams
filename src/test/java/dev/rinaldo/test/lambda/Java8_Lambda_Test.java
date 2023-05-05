@@ -83,11 +83,12 @@ public class Java8_Lambda_Test extends RinaldoDevTest {
         // !!! INÍCIO DA SUA PARTE !!!
 
         // 1) faça uma thread imitando o comportamento da thread acima
+
         // 2) use uma função lambda para representar o Runnable
 
-        final Thread minhaTreadLambda = null; // ... seu código ao invés de 'null' ...
+        final Thread minhaTreadLambda = new Thread(() -> soma.incrementAndGet()); // ... seu código ao invés de 'null' ...
 
-        // !!! FIM DA SUA PARTE !!!
+        // !!! FIM DA SUA PARTE !!! 
 
         // -- validações do exercício --
         assertNotNull(soma, TESTE_QUEBRADO);
@@ -127,6 +128,7 @@ public class Java8_Lambda_Test extends RinaldoDevTest {
         // 4) passe uma função lambda como argumento para o método forEach
 
         // ... seu código ...
+        listaDeNumeros.forEach(System.out::print);
 
         // !!! FIM DA SUA PARTE !!!
 
@@ -155,6 +157,10 @@ public class Java8_Lambda_Test extends RinaldoDevTest {
         // 3) use streams, filter e forEach.
 
         // ... seu código ...
+        listaDeNumeros
+                .stream()
+                .filter(e -> e % 2 == 0)
+                .forEach(System.out::print);
 
         // !!! FIM DA SUA PARTE !!!
 
