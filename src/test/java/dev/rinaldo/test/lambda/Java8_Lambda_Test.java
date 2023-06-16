@@ -10,11 +10,11 @@ import java.util.concurrent.atomic.AtomicInteger;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * EXERCÍCIOS da aula introdutória de Lambdas.
+ * EXERCÍCIOS da aula introdutória de Lambdas: https://www.youtube.com/watch?v=lbCYLgoVpfQ&list=PLuYctAHjg89ZkhgOQo0zcTtmHY5nuRYud&index=2
  *
  *
  * ----------------------- SOBRE OS EXERCÍCIOS -----------------------
- * Estes exercícios foram elaborados por Rinaldo para o canal RinaldoDev no youtube: youtube.com/@rinaldodev
+ * Estes exercícios foram elaborados por Rinaldo para o canal RinaldoDev no youtube: youtube.com/rinaldodev
  *
  * Este exercício foi feito gratuitamente e está disponível abertamente no GitHub.
  *
@@ -44,13 +44,13 @@ import static org.junit.jupiter.api.Assertions.*;
  *
  * ----------------------- AINDA ESTOU COM DÚVIDAS! -----------------------
  * Assista ao vídeo com as explicações de cada exercício! Ele fica na mesma playlist dos demais!
- * Se quiser mais ajuda, coloca lá na nossa comunidade do Discord que eu ou alguém da comunidade pode tentar te ajudar!
- * https://rinaldo.dev/discord
+ * Se quiser mais ajuda, entra no nosso grupo do WhatsApp que alguém pode te ajudar: https://rinaldo.dev/whatsapp
  * ------------------------------------------------------------------------
  *
  *
  * ----------------------- DEPOIS DE TERMINAR -----------------------
- * Ao terminar os testes coloque lá na nossa comunidade do Discord! https://rinaldo.dev/discord
+ * Ao terminar os testes, se você for um membro do canal, compartilha lá no nosso grupo do WhatsApp! https://rinaldo.dev/whatsapp
+ * 
  * Ou então poste em qualquer rede social e me marque! Sou @RinaldoDev em todas elas!
  *
  * Twitter: https://twitter.com/rinaldodev
