@@ -85,9 +85,6 @@ public class Java8_Stream_1_Test extends RinaldoDevTest {
         // 3) use streams, skip e forEach.
 
         // ... seu código ...
-        listaDeNumeros.stream()
-            .skip(3)
-            .forEach(n -> System.out.print(n));
 
         // !!! FIM DA SUA PARTE !!!
 
@@ -116,9 +113,6 @@ public class Java8_Stream_1_Test extends RinaldoDevTest {
         // 3) use streams, limit e forEach.
 
         // ... seu código ...
-        listaDeNumeros.stream()
-            .limit(3)
-            .forEach(n -> System.out.print(n));
 
         // !!! FIM DA SUA PARTE !!!
 
@@ -147,9 +141,6 @@ public class Java8_Stream_1_Test extends RinaldoDevTest {
         // 3) use streams, distinct e forEach.
 
         // ... seu código ...
-        listaDeNumeros.stream()
-            .distinct()
-            .forEach(n -> System.out.print(n));
 
         // !!! FIM DA SUA PARTE !!!
 
@@ -178,9 +169,6 @@ public class Java8_Stream_1_Test extends RinaldoDevTest {
         // 3) use streams, filter e forEach.
 
         // ... seu código ...    
-        listaDeNumeros.stream()
-            .filter(n -> n % 2 == 1)
-            .forEach(n -> System.out.print(n));
 
         // !!! FIM DA SUA PARTE !!!
 
@@ -209,9 +197,6 @@ public class Java8_Stream_1_Test extends RinaldoDevTest {
         // 3) use streams, map e forEach.
 
         // ... seu código ...     
-        listaDeNumeros.stream()
-            .map(n -> n * 3)
-            .forEach(n -> System.out.print(n));        
 
         // !!! FIM DA SUA PARTE !!!
 
@@ -240,11 +225,6 @@ public class Java8_Stream_1_Test extends RinaldoDevTest {
         // 3) use streams, skip, limit, map e forEach.
 
         // ... seu código ...  
-        listaDeNumeros.stream()
-            .skip(2)
-            .limit(2)
-            .map(n -> n * 2)
-            .forEach(n -> System.out.print(n));              
 
         // !!! FIM DA SUA PARTE !!!
 
